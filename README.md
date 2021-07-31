@@ -1,8 +1,8 @@
 ### Hi Developers 👋
 [![YouTube Badge](https://img.shields.io/badge/YouTube-DeveloperFunnel-red)](https://www.youtube.com/developerfunnel)
-[![Linkedin Badge](https://img.shields.io/badge/-Aakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/sunil-kumar-2b6353216/)](https://www.linkedin.com/in/aakash--01629954/)
+[![Linkedin Badge](https://img.shields.io/badge/-sunil-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/sunil-kumar-2b6353216/)]
 [![Website Badge](https://img.shields.io/badge/WebSite-Aakash-green)](https://www.aakash.me)
-[![Website Badge](https://img.shields.io/badge/StackOverflow-Aakash-yellow)](https://stackoverflow.com/users/3687251/aakash-)
+[![Website Badge](https://img.shields.io/badge/StackOverflow-sunil-yellow)](https://stackoverflow.com/users/16565203/sunil-kumar?tab=profile-)
 I'm
 Full Stack Developer.
 I have a wide range of skills that include back-end development using open source technologies (NodeJs, Expressjs), front-end development (React, ReactJs, HTML5, CSS3, Javascript, Responsive, UX),database(MongoDB,sql)
